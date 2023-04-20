@@ -5,11 +5,12 @@ Projekt szachów stworzony na potrzeby przećwiczenia podstaw języka Java i OOP
 ## O projekcie
 
 Projekt rozpocząłem z czystej ciekawości i chęci pracy nad czymś co mnie interesuje.
-Szachy wybrałem również ze względu na zrozumiałe dla mnie zasady gry i wtępny zarys kodu programu.
+Szachy wybrałem również ze względu na zrozumiałe dla mnie zasady gry i wstępny zarys kodu programu.
 Został on przeze mnie rozpoczęty w kwietniu 2023r i staram się go na bierząco rozbudowywać. 
 Moim celem jest utworzenie w pełni działającej gry. 
 Projekt jest dla mnie pewnego rodzaju poligonem testowym pozwalającym na nabrania wprawy w pracy z dostępną w Javie składnią.
-Pisanie kodu generuje również różne proste błędy, z którymi uczę się obchodzić.
+Pisanie kodu generuje również różne, głównie proste błędy, z którymi uczę się obchodzić.
+Ze względu na prostotę, trudno mówić o znaczącym wpływie formy kodu na końcową wydajność, aczkolwiek ze względu na moją naturę planuję znaleźć w przyszłości jak bardziej optymalne sposoby rozwiązywania pewnych problemów. Chciałbym aby w końcowej fazie projekt zachowując 100% wymaganych funkcjonalności działał z możliwie jak najszybciej.
 
 ## Cele i pomysły
 
